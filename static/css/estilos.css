@@ -1,0 +1,60 @@
+ body {
+    height: 5000%;
+    background-image: url("../images/cielo.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  } 
+
+
+
+
+  #prueba{
+    height: 680px;
+    width: 1000px;
+  }
+
+#id_groups{
+  width: 240px;
+  height: 80px;
+}
+
+
+  #imgbordeada{
+    border-radius: 50%
+  }
+
+  #opasidad{
+    opacity: 0.85;
+  }
+
+#trato p{
+  
+   padding-left: 8px;
+   
+ }
+
+
+ p #id_descripcion{
+   height: 5px;
+ }
+
+ p #id_cedula{
+  padding-left: 10px;
+}
+
+
+ #targeta_login{
+
+  width: 700px;
+ }
+
+
+#control{
+  width: 70px;
+}
+#misil_naranja:hover{
+  color: black;
+}
+
+ 
